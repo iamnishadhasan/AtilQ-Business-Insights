@@ -19,7 +19,7 @@ The goal of this project to provide actionable data driven insights for business
 - Create measures using DAX language
 - ETL Method(Extract, Transform, Load)
 - Import data from different sources
-- Data Modeling
+- Data Modelling
 - Data Cleaning
 - Page Nevigation using Buttons
 - Create Data Table using M language
