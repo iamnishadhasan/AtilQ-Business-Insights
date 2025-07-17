@@ -1,4 +1,4 @@
-# AtilQ-Business-Insights
+# AtliQ-Business-Insights
 
 ## Project Background
 AtliQ Hardware is a computer accessories manufacturing company, and their business is suffering losses due to ineffective data-driven decision-making.
